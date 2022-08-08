@@ -14,7 +14,7 @@ In this project, we have used the dermoscopic image samples of melanocytic lesio
 - `Melanoma` 
 
      
-## Flow diagram of the Genetic Algorithm
+## Flow diagram of the entire framework
 
 
 ![image]()

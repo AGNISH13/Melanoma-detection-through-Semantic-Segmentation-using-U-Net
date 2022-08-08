@@ -17,7 +17,7 @@ In this project, we have used the dermoscopic image samples of melanocytic lesio
 ## Flow diagram of the Genetic Algorithm
 
 
-![image](https://user-images.githubusercontent.com/84792746/154852688-200dd978-ec4a-47c1-b073-0d3249e3d89c.png)
+![image]()
 
 
 ## Dependencies

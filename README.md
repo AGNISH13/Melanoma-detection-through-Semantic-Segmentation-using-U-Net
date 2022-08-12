@@ -17,7 +17,7 @@ In this project, we have used the dermoscopic image samples of melanocytic lesio
 ## Flow Diagram of the Entire Framework
 
 
-![image]()
+![image](https://user-images.githubusercontent.com/84792746/184349527-af85ec1e-7347-47eb-b181-fee9678b5e09.jpg)
 
 
 ## Dependencies

@@ -8,7 +8,7 @@ The PH² dataset has been developed for research and benchmarking purposes, in o
 https://www.fc.up.pt/addi/ph2%20database.html
 
 ## Classes of Division
-In this project, we have used the dermoscopic image samples of melanocytic lesions, which have been classified into three categories, namely:  
+In this project, we have used the dermoscopic image samples of melanocytic lesions which have been classified into three categories, namely:  
 - `Common Nevus`  
 - `Atypical Nevus`
 - `Melanoma` 

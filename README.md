@@ -1,7 +1,7 @@
 # Melanoma-detection-through-Semantic-Segmentation-using-U-Net
 
 ## Project Description
-This is a python-based project classifying the skin lesion tissue into three different types, based on deep analysis of dermoscopic image samples of the `PH2` dataset through the application of the popular `pre-trained` and `fine-tuned` Convolution Neural Networks,`EfficientNet-b4-widese`, followed by the extraction of deep features from the CNN's `pre-final` layer and consequent classification.
+This is a python-based project classifying the skin lesion tissue into three different types, based on deep analysis of dermoscopic image samples of the `PH2` dataset after the generation of Segmentation masks using the popular `U-Net` architecture, followed by the application of `pre-trained` and `fine-tuned` Convolution Neural Network,`EfficientNet-b4-widese`, for extraction of deep features from the CNN's `pre-final` layer and consequent classification.
 
 ## Dataset Description
 The PH² dataset has been developed for research and benchmarking purposes, in order to facilitate comparative studies on both segmentation and classification algorithms of dermoscopic images. PH² is a dermoscopic image database acquired at the Dermatology Service of Hospital Pedro Hispano, Matosinhos, Portugal. The dataset is publicly available at:    
